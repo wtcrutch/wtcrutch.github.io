@@ -8,7 +8,7 @@ keywords: Computer Science, Programming, java, python, tech, IT, php, cgi, mobil
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="/assets/cv.pdf">cv</a></li>
+          <li><a href="wtcrutch.github.io/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/wtcrutch">github</a></li>
           <li><a href="http://waltercrutchfield.com">blog</a></li>
           <li><a href="https://twitter.com/dontsaveem">@DontSaveEm</a></li>

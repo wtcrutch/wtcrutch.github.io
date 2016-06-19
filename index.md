@@ -1,17 +1,17 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Walter Crutchfield
+description: Walter Crutchfield is a student at Indiana University working on a Computer Science B.S.
+keywords: Computer Science, Programming, java, python, tech, IT, php, cgi, mobile software, android, ios, apps
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="http://kbroman.wordpress.com">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
+          <li><a href="https://github.com/wtcrutch">github</a></li>
+          <li><a href="http://waltercrutchfield.com">blog</a></li>
+          <li><a href="https://twitter.com/dontsaveem">@DontSaveEm</a></li>
       </ul>
   </div>
 </div>

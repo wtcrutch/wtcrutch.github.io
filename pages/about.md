@@ -59,7 +59,7 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: wtcrutch@indiana.edu
+            Email: wtcrutch@indiana.edu <br/><br/>
             Phone: 240-461-7399
             </div>
         </div>

@@ -38,7 +38,7 @@ of interactive data visualizations for high-dimensional genetic data;
 see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
 his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)
 
 [orcid](http://orcid.org): [0000-0002-4914-6671](http://orcid.org/0000-0002-4914-6671)
 
@@ -69,7 +69,7 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 
         <div class="span2">
         <a href="../assets/pics/WalterCrutchfield_BW.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
+            <img src="../assets/pics/WalterCrutchfield_BW.jpg"
                   title="Karl Broman" alt="Karl Broman"/></a>
         </div>
     </div>

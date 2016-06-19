@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Walter Crutchfield
 ---
 
 <div class="navbar">

@@ -4,10 +4,10 @@ title: about
 description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 ---
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
+Walter Crutchfield is a student in the
+[School of Informatics &amp; Computing](http://www.biostat.wisc.edu)
+at Indiana University&ndash;Bloomington;
+working toward a B.S. in Computer Science; developer of
 [R/qtl](http://www.rqtl.org) (for [R](http://www.r-project.org)).
 
 Karl received a BS in [mathematics](http://www4.uwm.edu/letsci/math/)

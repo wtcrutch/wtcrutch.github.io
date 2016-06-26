@@ -5,7 +5,7 @@ description: Karl Broman is Professor in Biostatistics and Medical Informatics a
 ---
 
 Walter Crutchfield is a student in the
-[School of Informatics &amp; Computing](http://www.biostat.wisc.edu)
+[School of Informatics &amp; Computing](http://www.soic.indiana.edu/about/)
 at Indiana University&ndash;Bloomington;
 working toward a B.S. in Computer Science; developer of
 [R/qtl](http://www.rqtl.org) (for [R](http://www.r-project.org)).

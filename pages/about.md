@@ -9,33 +9,11 @@ Walter Crutchfield is a student in the
 at Indiana University&ndash;Bloomington;
 working toward a B.S. in Computer Science.
 
-Karl received a BS in [mathematics](http://www4.uwm.edu/letsci/math/)
-in 1991, from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](http://www.stat.berkeley.edu) in 1997, from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](http://www.wehi.edu.au/faculty_members/professor_terry_speed).
-He was a postdoctoral fellow with [James Weber](https://www.preventiongenetics.com/about-us/senior-staff/) at the
-[Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
-1997-1999. He
-was a faculty member in the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at Johns
-Hopkins University, 1999-2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu),
-where he is now Professor.
+Walter received an academic honors diploma from [Ben Davis High School](http://bdhs.wayne.k12.in.us/) in 2009. He was an accounts receivable intern with [Rolls-Royce](http://www.rolls-royce.com/) learning how to handle accounts and using [SAP](http://go.sap.com/index.html) products. He has also worked for the [University Information Technology Services](https://uits.iu.edu/) department at Indiana University where he assists students and faculty with campus systems.
 
-Karl is a Senior Editor for [_Genetics_](http://www.genetics.org) and
-a member of the [_BMC Biology_](http://bmcbiol.biomedcentral.com)
-[Editorial Board](http://bmcbiol.biomedcentral.com/about/editorial-board).
+Walter is the current Vice President of the [National Society of Black Engineer’s](http://www.nsbe.org/home.aspx) Indiana University chapter. 
 
-Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms. The
-latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
-_quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. Recently he has been focusing on the development
-of interactive data visualizations for high-dimensional genetic data;
-see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
-his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
+Walter is learning how to develop software with a focus on improving the lives of others. He has worked with programming languages such as Java, Python, C, and Swift. Walter is currently working on creating apps for both the Android and iOS platforms.
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)
 

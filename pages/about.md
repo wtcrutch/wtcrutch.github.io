@@ -11,7 +11,7 @@ working toward a B.S. in Computer Science.
 
 Walter received an academic honors diploma from [Ben Davis High School](http://bdhs.wayne.k12.in.us/) in 2009. He was an accounts receivable intern with [Rolls-Royce](http://www.rolls-royce.com/) learning how to handle accounts and using [SAP](http://go.sap.com/index.html) products. He has also worked for the [University Information Technology Services](https://uits.iu.edu/) department at Indiana University where he assists students and faculty with campus systems.
 
-Walter is the current Vice President of the [National Society of Black Engineer’s](http://www.nsbe.org/home.aspx) Indiana University chapter. 
+Walter is the current Vice President of the [National Society of Black Engineers](http://www.nsbe.org/home.aspx) Indiana University chapter. 
 
 Walter is learning how to develop software with a focus on improving the lives of others. He has worked with programming languages such as Java, Python, C, and Swift. Walter is currently working on creating apps for both the Android and iOS platforms.
 
